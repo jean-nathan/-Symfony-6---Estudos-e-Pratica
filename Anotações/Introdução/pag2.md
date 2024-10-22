@@ -1,4 +1,4 @@
-# Documentação sobre a Instalação do Symfony 6 ou Superior
+# Instalando o Symfony no Linux
 
 Esta seção da documentação orienta sobre como instalar o Symfony 6 ou superior em um sistema Linux, incluindo a configuração de ferramentas necessárias e a criação de um projeto de teste.
 
